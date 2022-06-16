@@ -5,7 +5,7 @@ body {
 	font-family: Sans-Serif;
     font-size: xxx-large;
 	text-align: left;
-	color: #f0f8ff;
+	color: #b5aaaa;
 	-webkit-transition-duration: 0.7s;
 	transition-duration: 0.7s;
 	margin: 0;
@@ -24,16 +24,47 @@ body {
 	align-items: center;
 }
 
+.graduation {
+	background-color: #b5aaaa;
+	color: black;	
+}
+
 footer {
     width: 100%;
     background-color: #000000;
     font-family: Sans-Serif;
     font-size: xx-large;
-    color: #f0f8ff;
+    color: #b5aaaa;
     text-align: center;
+}
+
+.graduation_footer {
+	background-color: #b5aaaa;
+	color: black;
 }
 
 .socials {
     font-size: x-large;
-    color: #f0f8ff;
+    color: #b5aaaa;
 }
+
+a:link {
+	color: #aab5b5;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  a:visited {
+	color: #aab5b5;
+	background-color: transparent;
+	text-decoration: none;
+  }
+  a:hover {
+	color: #aab5b5;
+	background-color: transparent;
+	text-decoration: underline;
+  }
+  a:active {
+	color: #aab5b5;
+	background-color: transparent;
+	text-decoration: underline;
+  }
