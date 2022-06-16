@@ -43,6 +43,10 @@ footer {
 	color: #353839;
 }
 
+#imgDisp {
+	max-width: 100vw;
+}
+
 .socials {
     font-size: x-large;
     color: #b5aaaa;
