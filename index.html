@@ -10,36 +10,54 @@
 </head>
 
 <body>
-    
-<p>Work in progress...</p>
 
-<img id="imgDisp" src="./assets/pendulum-one-cycle images/0001.jpg"></img>
+    <p>Work in progress...</p>
 
-<script>
-    while (True) {
-        changeImage
-    }  
+    <img alt="image" id="imgDisp" src="./assets/pendulum-one-cycle-images/0001.jpg"></img>
 
-    function changeImage(imgName)
-    {
-       image = document.getElementById('imgDisp');
-       image.src = imgName;
-    }
-    
-  </script>
+    <script>
 
-<footer>
-    <p>Socials and contacts</p>
-    <hr>
-    <p class="socials">
-        <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=yutatokoi@protonmail.com" target="_blank">Email</a>
-        <a href="https://www.youtube.com/channel/UCi7IJ1lP6X4cS6v7zD3ooEg" target="_blank">YouTube</a>
-        <a href="https://github.com/yutatokoi" target="_blank">GitHub</a>
-        <a href="https://www.worldcubeassociation.org/persons/2015TOKO01" target="_blank">WCA</a>
-        <a href="https://www.instagram.com/yutatokoi/" target="_blank">Instagram</a>
-        <a href="https://twitter.com/yutatokoi22" target="_blank">Twitter</a>
-      </p>
-</footer>
+        window.onload = async function ()
+        {
+            let i = 2;
+            while ( i < 159 )
+            {
+                changeImage( "./assets/pendulum-one-cycle-images/" + i.toString().padStart( 4, "0" ) + ".jpg" );
+                await sleep( 30 );
+                if ( i == 158 ) i = 1;
+                i++;
+            }
+        }
+
+
+
+        function changeImage ( imgName )
+        {
+            image = document.getElementById( 'imgDisp' );
+            image.src = imgName;
+        }
+
+        function sleep ( ms )
+        {
+            return new Promise( resolve => setTimeout( resolve, ms || 1000 ) );
+        }
+
+    </script>
+
+    <footer>
+        <p>Socials and contacts</p>
+        <hr>
+        <p class="socials">
+            <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=yutatokoi@protonmail.com"
+                target="_blank">Email</a>
+            <a href="https://www.youtube.com/channel/UCi7IJ1lP6X4cS6v7zD3ooEg" target="_blank">YouTube</a>
+            <a href="https://github.com/yutatokoi" target="_blank">GitHub</a>
+            <a href="https://www.worldcubeassociation.org/persons/2015TOKO01" target="_blank">WCA</a>
+            <a href="https://www.instagram.com/yutatokoi/" target="_blank">Instagram</a>
+            <a href="https://twitter.com/yutatokoi22" target="_blank">Twitter</a>
+        </p>
+    </footer>
 
 </body>
+
 </html>
