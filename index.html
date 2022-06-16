@@ -16,11 +16,13 @@
 <img id="imgDisp" src="./assets/pendulum-one-cycle images/0001.jpg"></img>
 
 <script>
-    for (let i = 2; i < 159; i++) {
+    let i = 2;
+    while (i < 159) {
         setTimeout(function() {
             changeImage("./assets/pendulum-one-cycle images/" + i.toString().padStart(4, "0") + ".jpg");
             if (i === 158) i = 1;
         }, 1000);
+        i++;
     }  
 
     function changeImage(imgName)
