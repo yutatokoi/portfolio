@@ -18,9 +18,9 @@
 <script>
     let i = 2;
     while (i < 159) {
+        if (i == 158) i = 1;
         setTimeout(function() {
-            changeImage("./assets/pendulum-one-cycle images/" + i.toString().padStart(4, "0") + ".jpg");
-            if (i == 158) i = 1;
+            changeImage("./assets/pendulum-one-cycle images/" + i.toString().padStart(4, "0") + ".jpg");    
         }, 1000);
         i++;
     }  
