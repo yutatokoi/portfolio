@@ -1,0 +1,47 @@
+---
+import PageLayout from "@/layouts/Base";
+import PostPreview from "@/components/blog/PostPreview";
+import SocialList from "@/components/SocialList";
+import { getAllPosts, sortMDByDate } from "@/utils";
+
+const MAX_POSTS = 3;
+const allPosts = await getAllPosts();
+const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
+
+const yutaCerts: Array<{ title: string; desc: string; href: string }> = [
+	{
+		title: "Google Cybersecurity Professional Certificate",
+		desc: "",
+		href: "https://coursera.org/share/24d176964315a44f7b9e0b14935e044b",
+	},
+	{
+		title: "Google Data Analytics Professional Certificate",
+		desc: "",
+		href: "https://coursera.org/share/767b3329cb1ac30fb62ccf2627e27d14",
+	},
+];
+---
+
+<PageLayout meta={{ title: "Home" }}>
+	<section>
+		<h1 class="title mb-6">Yuta Tokoi</h1>
+		<p class="mb-4">
+			Hi, I’m Yuta, a CS student at the University of Melbourne. Currently interested in 
+			cryptography and Lean prover. If you would like to contact me, email is best, but you
+			can also find me on other places.
+		</p>
+		<SocialList />
+	</section>
+	<section aria-label="Blog post list" class="mt-16">
+		<h2 class="title mb-4 text-xl">Latest posts</h2>
+		<ul class="space-y-4 sm:space-y-2">
+			{
+				allPostsByDate.map((p) => (
+					<li class="flex flex-col gap-x-2 sm:flex-row">
+						<PostPreview post={p} />
+					</li>
+				))
+			}
+		</ul>
+	</section>
+</PageLayout>
