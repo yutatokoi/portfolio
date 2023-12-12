@@ -1,7 +1,7 @@
 ---
 title: "I Use Neovim BTW, as a Beginner Programmer"
 description: "Why I use Neovim, despite being a beginner programmer"
-publishDate: "2023-12-11"
+publishDate: "2023-12-12"
 tags: ["neovim"]
 ---
 

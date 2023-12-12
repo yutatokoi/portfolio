@@ -13,5 +13,5 @@ export function getFormattedDate(
 		});
 	}
 
-	return dateFormat.format(new Date(date));
+	return new Date(date).toISOString().split("T")[0]
 }

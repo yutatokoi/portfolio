@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
 	title: "Yuta Tokoi",
 	// Meta property used as the default description meta property
-	description: "The portfolio/website of Yuta Tokoi",
+	description: "Yuta Tokoi's Portfolio",
 	// HTML lang property, found in src/layouts/Base.astro L:18
 	lang: "en-GB",
 	// Meta property, found in src/components/BaseHead.astro L:42
@@ -15,9 +15,10 @@ export const siteConfig: SiteConfig = {
 	date: {
 		locale: "en-GB",
 		options: {
-			day: "numeric",
-			month: "short",
 			year: "numeric",
+			// month: "short",
+			month: "2-digit",
+			day: "2-digit",
 		},
 	},
 	webmentions: {
