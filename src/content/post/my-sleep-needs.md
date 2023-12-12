@@ -1,8 +1,8 @@
 ---
 title: "My Sleep Needs"
-description: "I need a lot of sleep to function"
+description: I have more demanding sleep needs than most
 publishDate: "2023-12-13"
-tags: []
+tags: ["yuta's quirks"]
 draft: true
 ---
 
