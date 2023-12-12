@@ -25,6 +25,6 @@ There's no consensus that actively using Vim/Neovim is the best, but I've heard 
 
 Even at this very early stage of adoption, I've already found that not having to touch my mouse makes me faster. I'm not sure if I'll stick with Vim/Neovim for the rest of my life, but I am enjoying using it so far, and will hopefully be a better programmer coming out of this.
 
-My Neovim config:
+## My Neovim config
 
-- 2023-12-11: [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+- 2023-12-11: [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) as is
