@@ -9,6 +9,25 @@ const meta = {
 	description: "I'm a starter theme for Astro.build",
 };
 
+const yutaProjects: Array<{ title: string; desc: string; href: string }> = [
+	{
+		title: "One Kiji",
+		desc: "since June 2023",
+		href: "https://onekiji.com/",
+	},
+];
+
+const yutaSkills: Array<{ title: string; desc: string }> = [
+	{
+		title: "Programming",
+		desc: "Python, Racket, MATLAB, R, SQL, Processing, JavaScript, Astro, HTML, CSS",
+	},
+	{
+		title: "Tools",
+		desc: "Neovim, macOS, HHKB",
+	},
+];
+
 const yutaCerts: Array<{ title: string; desc: string; href: string }> = [
 	{
 		title: "Google Cybersecurity Professional Certificate",
@@ -22,17 +41,51 @@ const yutaCerts: Array<{ title: string; desc: string; href: string }> = [
 	},
 ];
 
-const yutaSkills: Array<{ title: string; desc: string }> = [
+const yutaPast: Array<{ title: string; desc: string; href: string }> = [
 	{
-		title: "Programming languages",
-		desc: "Python, Racket, MATLAB, R, SQL, Processing, JavaScript, Astro, HTML, CSS",
+		title: "Northeastern University",
+		desc: "attended from 2022-2023 before transferring.",
+		href: "https://catalog.northeastern.edu/undergraduate/computer-information-science/cybersecurity/cybersecurity-bs/",
 	},
 	{
-		title: "Tools",
-		desc: "Neovim",
+		title: "Hiroshima University BMK Digital Cognitive Neuroscience Lab",
+		desc: "Intern",
+		href: "https://sites.google.com/view/digital-cogneuro/",
+	},
+	{
+		title: "Silicon Valley Japan Platforom",
+		desc: "Intern",
+		href: "https://svjp.org/",
+	},
+	{
+		title: "DREAM SEEDS CAMP",
+		desc: "Intern",
+		href: "https://www.dreamseedscamp.org/",
+	},
+	{
+		title: "Digika",
+		desc: "Intern",
+		href: "https://www.sorotouch.jp/",
 	},
 ];
 
+const yutaFunFacts: Array<{ title: string; desc: string; href: string }> = [
+	{
+		title: "Minimalist",
+		desc: "All my possessions fit in a suitcase and backpack.",
+		href: "https://coursera.org/share/24d176964315a44f7b9e0b14935e044b",
+	},
+	{
+		title: "Speedcuber",
+		desc: "I've solved a Rubik's cube in 8.59 seconds.",
+		href: "https://www.worldcubeassociation.org/persons/2015TOKO01",
+	},
+	{
+		title: "Musician",
+		desc: "I play the Koto and occassionally do electronic music.",
+		href: "https://youtu.be/Hw3EuUZruMs",
+	},
+];
 
 ---
 
@@ -40,51 +93,110 @@ const yutaSkills: Array<{ title: string; desc: string }> = [
 	<div class="space-y-6">
 		<h1 class="title">About</h1>
 		<p>
-			Hi, I’m a starter Astro. I’m particularly great for getting you started with your own blogging
-			website.
+			Student by day, long sleeper by night.
 		</p>
-		<div class="flex justify-center">
+		<!-- <div class="flex justify-center">
 			<Image
 				src={aboutImg}
 				alt="A cartoon cactus looking at the 'Astro.build' logo"
 				loading="eager"
 				fetchpriority="high"
-		/>
-	</div>
-	<section class="mt-16">
+			/>
+		</div> -->
+		<section class="mt-16">
+			<h2 class="title mb-4 text-xl">Projects</h2>
+			<ul class="space-y-4 sm:space-y-2">
+				{
+					yutaProjects.map(({ href, title, desc }) => (
+						<li>
+							<a
+								href={href}
+								target="_blank"
+								rel="noopener noreferrer"
+								class="cactus-link inline-block"
+							>
+								{title}
+							</a>:
+							<p class="inline-block sm:mt-2">{desc}</p>
+						</li>
+					))
+				}
+			</ul>
+		</section>
+		<section class="mt-16">
+			<h2 class="title mb-4 text-xl">Skills</h2>
+			<ul class="space-y-4 sm:space-y-2">
+				{
+					yutaSkills.map(({ title, desc }) => (
+						<li>
+							<p class="inline-block sm:mt-2"><b>{title}</b>: </p>
+							<p class="inline-block sm:mt-2">{desc}</p>
+						</li>
+					))
+				}
+			</ul>
+		</section>
+		<section class="mt-16">
 		<h2 class="title mb-4 text-xl">Certifications</h2>
-		<ul class="space-y-4 sm:space-y-2">
-			{
-				yutaCerts.map(({ href, title, desc }) => (
-					<li>
-						<a
-							href={href}
-							target="_blank"
-							rel="noopener noreferrer"
-							class="cactus-link inline-block"
-						>
-							{title}
-						</a>
-						<p class="inline-block sm:mt-2">{desc}</p>
-					</li>
-				))
-			}
-		</ul>
-	</section>
-	<section class="mt-16">
-		<h2 class="title mb-4 text-xl">Skills</h2>
-		<ul class="space-y-4 sm:space-y-2">
-			{
-				yutaSkills.map(({ title, desc }) => (
-					<li>
-						<p class="inline-block sm:mt-2"><b>{title}</b>: </p>
-						<p class="inline-block sm:mt-2">{desc}</p>
-					</li>
-				))
-			}
-		</ul>
-	</section>
-		<p>Here are my some of my awesome built in features:</p>
+			<ul class="space-y-4 sm:space-y-2">
+				{
+					yutaCerts.map(({ href, title, desc }) => (
+						<li>
+							<a
+								href={href}
+								target="_blank"
+								rel="noopener noreferrer"
+								class="cactus-link inline-block"
+							>
+								{title}
+							</a>
+							<p class="inline-block sm:mt-2">{desc}</p>
+						</li>
+					))
+				}
+			</ul>
+		</section>
+		<section class="mt-16">
+			<h2 class="title mb-4 text-xl">Past</h2>
+			<ul class="space-y-4 sm:space-y-2">
+				{
+					yutaPast.map(({ href, title, desc }) => (
+						<li>
+							<a
+								href={href}
+								target="_blank"
+								rel="noopener noreferrer"
+								class="cactus-link inline-block"
+							>
+								{title}
+							</a>:
+							<p class="inline-block sm:mt-2">{desc}</p>
+						</li>
+					))
+				}
+			</ul>
+		</section>
+		<section class="mt-16">
+			<h2 class="title mb-4 text-xl">Fun facts</h2>
+			<ul class="space-y-4 sm:space-y-2">
+				{
+					yutaFunFacts.map(({ href, title, desc }) => (
+						<li>
+							<a
+								href={href}
+								target="_blank"
+								rel="noopener noreferrer"
+								class="cactus-link inline-block"
+							>
+								{title}
+							</a>:
+							<p class="inline-block sm:mt-2">{desc}</p>
+						</li>
+					))
+				}
+			</ul>
+		</section>
+		<!-- <p>Here are my some of my awesome built in features:</p>
 		<ul class="list-inside list-disc">
 			<li>I'm ultra fast as I'm a static site</li>
 			<li>I'm fully responsive</li>
@@ -102,6 +214,6 @@ const yutaSkills: Array<{ title: string; desc: string }> = [
 				rel="noopener noreferrer"
 				aria-label="github repository">repo</a
 			> if you like me!
-		</p>
+		</p> -->
 	</div>
 </PageLayout>
