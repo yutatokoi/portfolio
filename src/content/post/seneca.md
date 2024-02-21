@@ -1,7 +1,7 @@
 ---
 title: "Re-re-reading Seneca"
 description: "Problems of 'modern society' are not so modern"
-publishDate: "2023-02-21"
+publishDate: "2024-02-21"
 tags: ["books"]
 ---
 
