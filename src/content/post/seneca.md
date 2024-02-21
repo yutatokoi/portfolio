@@ -5,9 +5,9 @@ publishDate: "2024-02-21"
 tags: ["books"]
 ---
 
-Unequal distribution of food and hunger. People wearing jewellery worth a small fortune. Individuals ending their life once they feel fully prepared to live it.
+Unequal distribution of food and hunger. People wearing jewellery worth a small fortune. Individuals ending their life only once they had just felt fully prepared to live it.
 
-Those are all examples of problems and problematic people described by Seneca the Younger, specifically in the essays “On the Shortness of Life”, "On the Tranquility of Mind", "On the Happy Life". 
+Those are all examples of problems and problematic people described by Seneca the Younger, specifically in the essays “On the Shortness of Life”, "On the Tranquility of Mind", "On the Happy Life".
 
 Whether these are considered problems is perhaps up to the personal values of the reader. However, I had thought many of these were a symptom of modern day society. Many people around me seem to hold a similar view. Maybe it is because people feel too safe and assured of a future that is awaiting, that they prolong living out their life, always trying to prepare for it.
 
