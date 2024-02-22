@@ -6,12 +6,6 @@ tags: ["minimalism"]
 draft: true
 ---
 
-## Gadgets
-
-- M1 Pro MacBook Pro (32GB RAM, 1TB SSD)
-- ZSA Voyager
-- iPhone SE (2nd generation)
-
 ## Books
 
 - [生の短さについて](https://www.iwanami.co.jp/book/b246664.html) - セネカ 著、大西英文 訳
@@ -23,7 +17,28 @@ draft: true
 - [Cybersecurity Myths and Misconceptions](https://www.oreilly.com/library/view/cybersecurity-myths-and/9780137929214/) - Eugene H. Spafford, Leigh Metcalf, Josiah Dykstra
 - [A Vulnerable System](https://www.cornellpress.cornell.edu/book/9781501758942/a-vulnerable-system/) - Andrew J. Stewart
 
+## Gadgets
+
+- M1 Pro MacBook Pro (32GB RAM, 1TB SSD)
+- ZSA Voyager
+- iPhone SE (2nd generation)
+
+## Documents and Stationery
+
+- Passport
+- Banking file
+- Physical cards
+- SARASA ballpoint pen
+- Maruman original paper
+- PwC paper file
+
 ## Clothing
+
+- 8x Uniqlo U t-shirt
+- 3x Uniqlo pants
+- 8x Airism shirts
+- 8x Airism underwear
+- 6x MUJI hand towels
 
 ## Kitchen
 
