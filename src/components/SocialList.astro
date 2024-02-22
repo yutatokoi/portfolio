@@ -10,33 +10,28 @@ const socialLinks: Array<{
 	friendlyName: string;
 	link: string;
 	isWebmention?: boolean;
-}> = [
-	{
-		name: "mdi:github",
-		friendlyName: "Github",
-		link: "https://github.com/yutatokoi",
-	},
-	// {
-	// 	name: "mdi:mastodon",
-	// 	friendlyName: "Mastodon",
-	// 	link: "#",
-	// },
-	{
-		name: "mdi:linkedin",
-		friendlyName: "LinkedIn",
-		link: "https://www.linkedin.com/in/yuta-tokoi-5a183a206/",
-	},
+}> = [	
 	{
 		name: "mdi:email",
 		friendlyName: "email",
 		link: "mailto:yutatokoi@proton.me",
 		isWebmention: true,
 	},
+	{
+		name: "mdi:linkedin",
+		friendlyName: "LinkedIn",
+		link: "https://www.linkedin.com/in/yuta-tokoi-5a183a206/",
+	},
+	{
+		name: "mdi:github",
+		friendlyName: "Github",
+		link: "https://github.com/yutatokoi",
+	},
 ];
 ---
 
 <div class="flex flex-wrap items-center gap-x-4">
-	<p>Find me on</p>
+	<p>Contact me:</p>
 	<ul class="flex flex-1 items-center gap-x-2 sm:flex-initial">
 		{
 			socialLinks.map(({ link, name, friendlyName, isWebmention }) => (
