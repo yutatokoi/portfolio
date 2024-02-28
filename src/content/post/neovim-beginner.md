@@ -2,7 +2,7 @@
 title: "I Use Neovim BTW, as a Beginner Programmer"
 description: "Why I use Neovim, despite being a beginner programmer"
 publishDate: "2023-12-12"
-tags: ["neovim"]
+tags: ["neovim", "programming"]
 ---
 
 I've taken two university courses, each using Python and Racket. I occasionally make automation scripts and tools in Python, and [solving Advent of Code problems](https://github.com/yutatokoi/aoc).
