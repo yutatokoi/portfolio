@@ -1,7 +1,7 @@
 ---
 title: "My Developer Resources"
 description: "Public list of resources I have found helpful in my developer journey"
-publishDate: "2023-02-28"
+publishDate: "2024-02-28"
 tags: ["test"]
 ---
 
