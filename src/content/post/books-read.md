@@ -2,7 +2,7 @@
 title: "List of Read Books"
 description: "What I've read"
 publishDate: "2024-02-28"
-tags: ["books"]
+tags: ["books", "featured"]
 ---
 
 
