@@ -12,3 +12,4 @@ There are many online resources out there about programming or becoming a better
 ## Git
 - [General book on Git](https://git-scm.com/book/en/v2/)
 - [YouTube tutorial on Git branching](https://youtu.be/e2IbNHi4uCI?si=w_4B0TKyFAcAFUqo)
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
