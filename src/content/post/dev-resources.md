@@ -13,3 +13,8 @@ There are many online resources out there about programming or becoming a better
 - [General book on Git](https://git-scm.com/book/en/v2/)
 - [YouTube tutorial on Git branching](https://youtu.be/e2IbNHi4uCI?si=w_4B0TKyFAcAFUqo)
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+## Getting a Job
+
+- [Based blog post](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
+- [boot.dev course](https://www.boot.dev/learn/learn-job-search)
