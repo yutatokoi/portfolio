@@ -18,3 +18,7 @@ There are many online resources out there about programming or becoming a better
 
 - [Based blog post](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
 - [boot.dev course](https://www.boot.dev/learn/learn-job-search)
+
+## ZSA
+
+- [Default layout](https://www.zsa.io/assets/voyager/default-layout.pdf)
