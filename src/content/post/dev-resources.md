@@ -1,7 +1,7 @@
 ---
 title: "My Developer Resources"
 description: "Public list of resources I have found helpful in my developer journey"
-publishDate: "2024-02-28"
+publishDate: "2024-03-01"
 tags: ["programming"]
 ---
 
@@ -18,7 +18,13 @@ There are many online resources out there about programming or becoming a better
 
 - [Based blog post](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
 - [boot.dev course](https://www.boot.dev/learn/learn-job-search)
+  - [Associated YT video](https://youtu.be/6nz8GXjxiHg?si=C6RLjYpgK6LaPReA)
 
 ## ZSA
 
 - [Default layout](https://www.zsa.io/assets/voyager/default-layout.pdf)
+
+## Arch Linux
+
+- [Install guide by Dreams of Autonomy](https://youtu.be/YC7NMbl4goo?si=Smc8zQCAksSedPEb)
+- [ArchWiki](https://wiki.archlinux.org/)
