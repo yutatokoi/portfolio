@@ -3,7 +3,6 @@ title: "Item Inventory"
 description: "A list of all of my physical possessions"
 publishDate: "2024-02-22"
 tags: ["minimalism"]
-draft: true
 ---
 
 ## Books
