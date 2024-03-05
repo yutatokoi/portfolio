@@ -13,6 +13,7 @@ tags: ["minimalism"]
 - [汝、星のごとく](https://bookclub.kodansha.co.jp/product?item=0000366625) - 凪良ゆう 著
 - [星を編む](https://bookclub.kodansha.co.jp/product?item=0000379789) - 凪良ゆう 著
 - [ゴールデンスランバー](https://www.shinchosha.co.jp/book/459603/) - 伊坂幸太郎 著
+- [ガロア　天才数学者の生涯](https://www.kadokawa.co.jp/product/321907000755/) - 加藤文元 著
 - [Cybersecurity Myths and Misconceptions](https://www.oreilly.com/library/view/cybersecurity-myths-and/9780137929214/) - Eugene H. Spafford, Leigh Metcalf, Josiah Dykstra
 - [A Vulnerable System](https://www.cornellpress.cornell.edu/book/9781501758942/a-vulnerable-system/) - Andrew J. Stewart
 
@@ -33,10 +34,14 @@ tags: ["minimalism"]
 
 ## Clothing
 
+(All items are black, except undershirt)
+
 - 8x Uniqlo U t-shirt
 - 3x Uniqlo pants
-- 8x Airism shirts
+- 8x Airism undershirts
 - 8x Airism underwear
+- 8x Uniqlo socks
 - 6x MUJI hand towels
+- New Balance Fresh Foam Arishi v4 GTX
 
 ## Kitchen
