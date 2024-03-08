@@ -28,8 +28,7 @@ tags: ["minimalism"]
 - Passport
 - Banking file
 - Physical cards
-- SARASA ballpoint pen
-- Maruman original paper
+- Casio FX-82AU Plus 2nd edition
 - PwC paper file
 
 ## Clothing
