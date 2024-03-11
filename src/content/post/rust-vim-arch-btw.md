@@ -42,3 +42,7 @@ using Vim
 --> wouldn't it be cool if I could do more via the Terminal?
 --> I wonder if I can do my Git stuff with CLI commands
 --> learn how Git works on a fundamental basis
+
+---
+
+I don't know whether learning Rust, Vim, or Arch will really make you a better programmer, or more employable. But I can give you a personal guarantee that the last one will work wonders in keeping you without a girlfriend.
