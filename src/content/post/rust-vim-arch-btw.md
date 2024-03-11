@@ -26,6 +26,6 @@ I too, would like to be able to say the equivalent of "I work at Netflix btw" or
 
 That's why I'm choosing to do things the "hard way".
 
-There are ways to spend my time to likely improve my immediate employability. Like learning Java or Go instead of Rust. Using VSCode instead of Neovim. Running macOS or Windows instead of Arch. But I'm in it for the long run. And I enjoy these "unproductive" anyways things, so it's a win for me whether the knowledge and experience I gain from them will make me more employable in the future.
+There are ways to spend my time to likely improve my immediate employability. Like learning Java or Go instead of Rust. Reallocating the time I spend learning about text editors and operating systems to doing more LeetCode. But I'm in it for the long run. And I enjoy these "unproductive" anyways things, so it's a win for me whether the knowledge and experience I gain from them will make me more employable in the future.
 
 Thank you to ThePrimeagen, for not only entertaining me, but also helping me enjoy programming even more.
