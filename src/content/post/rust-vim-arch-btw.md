@@ -51,7 +51,7 @@ Maybe I'll go back to VSCode.
 
 Maybe I'll go back to daily-driving macOS.
 
-But dang it, I'm going to be sipping that soy latte with more skills and knowledge than the other JR Devs.
+But dang it, I'm going to be sipping that soy latte with more skills and knowledge than the other JR Devs. And when I'm 60 with a white beard, I'll be yelling at the young JRs that they've never programmed the real way. Or maybe Rust will have been adopted by the industry and it won't be much of a flex, and maybe the year of the Linux desktop will have finally come. Or maybe AI will have made computing by humans obsolete and there won't be any young JRs to flex on.
 
 ---
 
