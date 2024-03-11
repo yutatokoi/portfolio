@@ -45,4 +45,14 @@ using Vim
 
 ---
 
-I don't know whether learning Rust, Vim, or Arch will really make you a better programmer, or more employable. But I can give you a personal guarantee that the last one will work wonders in keeping you without a girlfriend.
+Maybe I'll never use Rust professionally.
+
+Maybe I'll go back to VSCode.
+
+Maybe I'll go back to daily-driving macOS.
+
+But dang it, I'm going to be sipping that soy latte with more skills and knowledge than the other JR Devs.
+
+---
+
+I don't know whether learning Rust, Vim, or Arch will make you a better programmer, or more employable. But I can give you a personal guarantee that the last one will work wonders in keeping you without a partner.
