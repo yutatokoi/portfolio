@@ -12,7 +12,7 @@ No, I do not work at Netflix btw, with four children and a beautiful wife.
 
 And no, I'm certainly not a massochist who takes joy in torturing themselves.
 
-But yes, running Arch does mean I have no girlfriend.
+But yes, I happen to run Arch and not have a girlfriend.
 
 ## Why do all this?
 
