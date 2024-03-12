@@ -19,6 +19,7 @@ There are many online resources out there about programming or becoming a better
 - [Based blog post](https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md)
 - [boot.dev course](https://www.boot.dev/learn/learn-job-search)
   - [Associated YT video](https://youtu.be/6nz8GXjxiHg?si=C6RLjYpgK6LaPReA)
+- [Fireship 🤝 ThePrimeagen: How to NOT Fail a Technical Interview](https://youtu.be/1t1_a1BZ04o?si=0QNLWKfZLmCwljxo)
 
 ## ZSA
 
