@@ -13,3 +13,4 @@ tags: ["books", "featured"]
 - [重力ピエロ](https://www.shinchosha.co.jp/book/125023/) - 伊坂幸太郎 著
 - [ノルウェイの森（上）](https://bookclub.kodansha.co.jp/product?item=0000203588) - 村上春樹 著
 - [ノルウェイの森（下）](https://bookclub.kodansha.co.jp/product?item=0000203589) - 村上春樹 著
+- [ねじまき鳥クロニクル―第1部 泥棒かささぎ編―](https://www.shinchosha.co.jp/book/100141/) - 村上春樹 著
