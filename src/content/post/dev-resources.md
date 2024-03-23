@@ -1,7 +1,7 @@
 ---
 title: "My Developer Resources"
 description: "Public list of resources I have found helpful in my developer journey"
-publishDate: "2024-03-17"
+publishDate: "2024-03-23"
 tags: ["programming"]
 ---
 
@@ -33,3 +33,7 @@ There are many online resources out there about programming or becoming a better
 
 - [Install guide by Dreams of Autonomy](https://youtu.be/YC7NMbl4goo?si=Smc8zQCAksSedPEb)
 - [ArchWiki](https://wiki.archlinux.org/)
+
+## Systems
+
+- [Dive into Systems](https://diveintosystems.org/book/index.html)
