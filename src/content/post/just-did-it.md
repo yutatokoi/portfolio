@@ -2,7 +2,7 @@
 title: "What I Just Did"
 description: ""
 publishDate: "2024-03-23"
-tags: [""]
+tags: ["featured"]
 ---
 
 As the old and wise saying goes, ["JUST DO IT"](https://youtu.be/ZXsQAXx_ao0?si=sYlqYE-7LEB-h2LG).
