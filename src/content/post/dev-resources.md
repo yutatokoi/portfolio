@@ -24,6 +24,7 @@ There are many online resources out there about programming or becoming a better
 - [boot.dev course](https://www.boot.dev/learn/learn-job-search)
   - [Associated YT video](https://youtu.be/6nz8GXjxiHg?si=C6RLjYpgK6LaPReA)
 - [Fireship 🤝 ThePrimeagen: How to NOT Fail a Technical Interview](https://youtu.be/1t1_a1BZ04o?si=0QNLWKfZLmCwljxo)
+- [ITエンジニアインターン集](https://magic-spreadsheets.github.io/)
 
 ## ZSA
 
