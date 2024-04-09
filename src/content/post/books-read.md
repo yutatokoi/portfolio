@@ -14,3 +14,5 @@ tags: ["books", "featured"]
 - [ノルウェイの森（上）](https://bookclub.kodansha.co.jp/product?item=0000203588) - 村上春樹 著
 - [ノルウェイの森（下）](https://bookclub.kodansha.co.jp/product?item=0000203589) - 村上春樹 著
 - [ねじまき鳥クロニクル―第1部 泥棒かささぎ編―](https://www.shinchosha.co.jp/book/100141/) - 村上春樹 著
+- [ねじまき鳥クロニクル―第2部　予言する鳥編―](https://www.shinchosha.co.jp/book/100142/) - 村上春樹 著
+- [ねじまき鳥クロニクル―第3部　鳥刺し男編―](https://www.shinchosha.co.jp/book/100143/) - 村上春樹 著
