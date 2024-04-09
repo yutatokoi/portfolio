@@ -1,5 +1,5 @@
 ---
-title: "List of Read Books"
+title: "Books I Have Read"
 description: "What I've read"
 publishDate: "2024-04-09"
 tags: ["books", "featured"]

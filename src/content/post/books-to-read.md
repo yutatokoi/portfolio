@@ -1,5 +1,5 @@
 ---
-title: "List of Books to Read"
+title: "Books I Want to Read"
 description: "What I will read"
 publishDate: "2024-04-09"
 tags: ["books"]
