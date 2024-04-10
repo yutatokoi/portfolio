@@ -1,7 +1,7 @@
 ---
 title: "My Developer Resources"
 description: "Public list of resources I have found helpful in my developer journey"
-publishDate: "2024-03-23"
+publishDate: "2024-04-10"
 tags: ["programming"]
 ---
 
@@ -25,6 +25,7 @@ There are many online resources out there about programming or becoming a better
   - [Associated YT video](https://youtu.be/6nz8GXjxiHg?si=C6RLjYpgK6LaPReA)
 - [Fireship 🤝 ThePrimeagen: How to NOT Fail a Technical Interview](https://youtu.be/1t1_a1BZ04o?si=0QNLWKfZLmCwljxo)
 - [ITエンジニアインターン集](https://magic-spreadsheets.github.io/)
+- [Tech internships in Australia](https://github.com/AusJobs/Australia-Tech-Internship)
 
 ## ZSA
 
