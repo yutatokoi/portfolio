@@ -11,3 +11,4 @@ tags: ["books"]
 - [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them) - Teiva Harsanyi
 - [すべてがFになる](https://bookclub.kodansha.co.jp/product?item=0000198009) - 森博嗣 著
 - [EXERCISED: Why Something We Never Evolved to Do is Healthy and Rewarding](https://scholar.harvard.edu/exercised/home) - Daniel E. Lieberman
+- [Visual Thinking](https://www.penguinrandomhouse.com/books/673207/visual-thinking-by-temple-grandin/) - Temple Grandin
