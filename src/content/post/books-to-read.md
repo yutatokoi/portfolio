@@ -14,3 +14,4 @@ tags: ["books"]
 - [Visual Thinking](https://www.penguinrandomhouse.com/books/673207/visual-thinking-by-temple-grandin/) - Temple Grandin
 - [The Mind is Flat](https://www.penguin.com.au/books/the-mind-is-flat-9780241208762) - Nick Chater
 - [The Box](https://en.wikipedia.org/wiki/The_Box_(Levinson_book)) - Marc Levinson
+- [The Art of Not Being Governed](https://en.wikipedia.org/wiki/The_Art_of_Not_Being_Governed) - James C. Scott
