@@ -1,7 +1,7 @@
 ---
 title: "My Developer Resources"
 description: "Public list of resources I have found helpful in my developer journey"
-publishDate: "2024-04-10"
+publishDate: "2024-04-25"
 tags: ["programming"]
 ---
 
@@ -39,3 +39,4 @@ There are many online resources out there about programming or becoming a better
 ## Systems
 
 - [Dive into Systems](https://diveintosystems.org/book/index.html)
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
