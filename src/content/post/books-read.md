@@ -17,3 +17,4 @@ tags: ["books", "featured"]
 - [ねじまき鳥クロニクル―第2部　予言する鳥編―](https://www.shinchosha.co.jp/book/100142/) - 村上春樹 著
 - [ねじまき鳥クロニクル―第3部　鳥刺し男編―](https://www.shinchosha.co.jp/book/100143/) - 村上春樹 著
 - [ゴールデンスランバー](https://www.shinchosha.co.jp/book/459603/) - 伊坂幸太郎 著
+- [汝、星のごとく](https://bookclub.kodansha.co.jp/product?item=0000366625) - 凪良ゆう 著
