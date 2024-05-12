@@ -1,7 +1,7 @@
 ---
 title: "Books I Want to Read"
 description: "What I will read"
-publishDate: "2024-04-21"
+publishDate: "2024-05-12"
 tags: ["books"]
 ---
 
@@ -12,3 +12,6 @@ tags: ["books"]
 - [The Box](https://en.wikipedia.org/wiki/The_Box_(Levinson_book)) - Marc Levinson
 - [The Art of Not Being Governed](https://en.wikipedia.org/wiki/The_Art_of_Not_Being_Governed) - James C. Scott
 - [源氏物語 01 桐壺](https://www.aozora.gr.jp/index_pages/person52.html#sakuhin_list_1) - 紫式部 著
+- [「ない仕事」の作り方](https://books.bunshun.jp/ud/book/num/9784163903699) - みうらじゅん 著
+- [サブカルサラリーマンになろう～人生をよくばる108の方法](https://bookclub.kodansha.co.jp/product?item=0000387721) - スージー鈴木 著
+- [なぜ働いていると本が読めなくなるのか](https://shinsho.shueisha.co.jp/kikan/1212-b/) -  三宅香帆 著
