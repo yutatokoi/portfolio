@@ -16,6 +16,7 @@ tags: ["books", "featured"]
 - [ガロア　天才数学者の生涯](https://www.kadokawa.co.jp/product/321907000755/) - 加藤文元 著
 - [生の短さについて](https://www.iwanami.co.jp/book/b246664.html) - セネカ 著、大西英文 訳
 - [Cybersecurity Myths and Misconceptions](https://www.oreilly.com/library/view/cybersecurity-myths-and/9780137929214/) - Eugene H. Spafford, Leigh Metcalf, Josiah Dykstra
+- [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) - George Orwell
 - [A Vulnerable System](https://www.cornellpress.cornell.edu/book/9781501758942/a-vulnerable-system/) - Andrew J. Stewart
 - [スター](https://publications.asahi.com/product/24037.html) - 朝井リョウ 著
 - [正欲](https://www.shinchosha.co.jp/book/333063/) - 朝井リョウ 著
