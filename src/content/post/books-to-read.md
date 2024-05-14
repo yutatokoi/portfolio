@@ -1,7 +1,7 @@
 ---
 title: "Books I Want to Read"
 description: "What I will read"
-publishDate: "2024-05-13"
+publishDate: "2024-05-14"
 tags: ["books"]
 ---
 
@@ -15,3 +15,4 @@ tags: ["books"]
 - [サブカルサラリーマンになろう～人生をよくばる108の方法](https://bookclub.kodansha.co.jp/product?item=0000387721) - スージー鈴木 著
 - [なぜ働いていると本が読めなくなるのか](https://shinsho.shueisha.co.jp/kikan/1212-b/) -  三宅香帆 著
 - [Business for Punks](https://www.penguinrandomhouse.com/books/530242/business-for-punks-by-james-watt/) - James Watt
+- [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明  著
