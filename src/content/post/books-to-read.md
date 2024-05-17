@@ -18,3 +18,4 @@ tags: ["books"]
 - [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明  著
 - [孤独な散歩者の夢想](https://www.shinchosha.co.jp/book/200701/) - ルソー 著
 - [私の好きな孤独](https://www.usio.co.jp/books/ushio_bunko/23071) - 長田弘 著
+- [沈黙](https://www.shinchosha.co.jp/book/112315/) - 遠藤周作 著
