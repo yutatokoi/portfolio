@@ -16,3 +16,5 @@ tags: ["books"]
 - [なぜ働いていると本が読めなくなるのか](https://shinsho.shueisha.co.jp/kikan/1212-b/) -  三宅香帆 著
 - [Business for Punks](https://www.penguinrandomhouse.com/books/530242/business-for-punks-by-james-watt/) - James Watt
 - [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明  著
+- [孤独な散歩者の夢想](https://www.shinchosha.co.jp/book/200701/) - ルソー 著
+- [私の好きな孤独](https://www.usio.co.jp/books/ushio_bunko/23071) - 長田弘 著
