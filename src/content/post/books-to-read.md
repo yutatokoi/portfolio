@@ -20,3 +20,4 @@ tags: ["books"]
 - [私の好きな孤独](https://www.usio.co.jp/books/ushio_bunko/23071) - 長田弘 著
 - [沈黙](https://www.shinchosha.co.jp/book/112315/) - 遠藤周作 著
 - Walden - Henry David Thoreau
+- [サブカルで食う 就職せず好きなことだけやって生きていく方法](https://www.kadokawa.co.jp/product/321706000456/) - 大槻ケンヂ 著
