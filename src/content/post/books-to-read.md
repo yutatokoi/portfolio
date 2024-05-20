@@ -21,3 +21,7 @@ tags: ["books"]
 - [沈黙](https://www.shinchosha.co.jp/book/112315/) - 遠藤周作 著
 - Walden - Henry David Thoreau
 - [サブカルで食う 就職せず好きなことだけやって生きていく方法](https://www.kadokawa.co.jp/product/321706000456/) - 大槻ケンヂ 著
+- [恋と禁忌の述語論理](https://bookclub.kodansha.co.jp/product?item=0000318280) - 井上真偽 著
+- [その可能性はすでに考えた](https://bookclub.kodansha.co.jp/product?item=0000212824) - 井上真偽 著
+- [聖女の毒杯　その可能性はすでに考えた](https://bookclub.kodansha.co.jp/product?item=0000310166) - 井上真偽 著
+- [ベーシックインカムの祈り](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-744445-2) - 井上真偽 著
