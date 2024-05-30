@@ -23,6 +23,7 @@ tags: ["books", "featured"]
 - [正欲](https://www.shinchosha.co.jp/book/333063/) - 朝井リョウ 著
 - [クスノキの番人](https://www.j-n.co.jp/books/978-4-408-53756-6/) - 東野圭吾 著
 - [危険なビーナス](https://bookclub.kodansha.co.jp/product?item=0000323683) - 東野圭吾 著
+- [田舎暮らし毒本](https://www.kobunsha.com/shelf/book/isbn/9784334045654) - 樋口明雄 著
 - [蜜蜂と遠雷](https://www.gentosha.co.jp/book/detail/9784344030039/) - 恩田陸 著
 - [変身](https://bookclub.kodansha.co.jp/product?item=0000161867) - 東野圭吾 著
 - [望郷](https://books.bunshun.jp/ud/book/num/9784167905231) - 湊かなえ 著
