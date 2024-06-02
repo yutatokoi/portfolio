@@ -1,13 +1,12 @@
 ---
 title: "Books I Want to Read"
 description: "What I will read"
-publishDate: "2024-05-20"
+publishDate: "2024-06-02"
 tags: ["books"]
 ---
 
 - [すべてがFになる](https://bookclub.kodansha.co.jp/product?item=0000198009) - 森博嗣 著
 - [EXERCISED: Why Something We Never Evolved to Do is Healthy and Rewarding](https://scholar.harvard.edu/exercised/home) - Daniel E. Lieberman
-- [The Box](https://en.wikipedia.org/wiki/The_Box_(Levinson_book)) - Marc Levinson
 - [The Art of Not Being Governed](https://en.wikipedia.org/wiki/The_Art_of_Not_Being_Governed) - James C. Scott
 - [源氏物語 01 桐壺](https://www.aozora.gr.jp/index_pages/person52.html#sakuhin_list_1) - 紫式部 著
 - [「ない仕事」の作り方](https://books.bunshun.jp/ud/book/num/9784163903699) - みうらじゅん 著

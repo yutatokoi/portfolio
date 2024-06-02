@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-05-13"
+publishDate: "2024-06-02"
 tags: ["books", "featured"]
 ---
 
+- [The Box](https://en.wikipedia.org/wiki/The_Box_(Levinson_book)) - Marc Levinson
 - [星を編む](https://bookclub.kodansha.co.jp/product?item=0000379789) - 凪良ゆう 著
 - [汝、星のごとく](https://bookclub.kodansha.co.jp/product?item=0000366625) - 凪良ゆう 著
 - [ゴールデンスランバー](https://www.shinchosha.co.jp/book/459603/) - 伊坂幸太郎 著
