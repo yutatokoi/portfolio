@@ -41,7 +41,8 @@ There are many online resources out there about programming or becoming a better
 - [Dive into Systems](https://diveintosystems.org/book/index.html)
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
-## Lean
+## Formal Methods, Verification
 
 - [Lean Lang](https://lean-lang.org/)
 - [Lean Community](https://leanprover-community.github.io/)
+- [Programming Languages and Verficiation reading group @UniMelb](https://github.com/zilinc/PLV-RG/wiki/Previous-Papers)
