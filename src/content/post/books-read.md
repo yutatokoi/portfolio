@@ -5,6 +5,7 @@ publishDate: "2024-06-09"
 tags: ["books", "featured"]
 ---
 
+- [コンビニ人間](https://books.bunshun.jp/ud/book/num/9784167911300) - 村田沙耶香 著
 - [なぜ働いていると本が読めなくなるのか](https://shinsho.shueisha.co.jp/kikan/1212-b/) - 三宅香帆 著
 - [The Box](https://en.wikipedia.org/wiki/The_Box_(Levinson_book)) - Marc Levinson
 - [星を編む](https://bookclub.kodansha.co.jp/product?item=0000379789) - 凪良ゆう 著
