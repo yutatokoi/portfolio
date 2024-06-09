@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-06-02"
+publishDate: "2024-06-09"
 tags: ["books", "featured"]
 ---
 
+- [なぜ働いていると本が読めなくなるのか](https://shinsho.shueisha.co.jp/kikan/1212-b/) - 三宅香帆 著
 - [The Box](https://en.wikipedia.org/wiki/The_Box_(Levinson_book)) - Marc Levinson
 - [星を編む](https://bookclub.kodansha.co.jp/product?item=0000379789) - 凪良ゆう 著
 - [汝、星のごとく](https://bookclub.kodansha.co.jp/product?item=0000366625) - 凪良ゆう 著

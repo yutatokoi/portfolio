@@ -1,7 +1,7 @@
 ---
 title: "Books I Want to Read"
 description: "What I will read"
-publishDate: "2024-06-02"
+publishDate: "2024-06-09"
 tags: ["books"]
 ---
 
@@ -11,7 +11,6 @@ tags: ["books"]
 - [源氏物語 01 桐壺](https://www.aozora.gr.jp/index_pages/person52.html#sakuhin_list_1) - 紫式部 著
 - [「ない仕事」の作り方](https://books.bunshun.jp/ud/book/num/9784163903699) - みうらじゅん 著
 - [サブカルサラリーマンになろう～人生をよくばる108の方法](https://bookclub.kodansha.co.jp/product?item=0000387721) - スージー鈴木 著
-- [なぜ働いていると本が読めなくなるのか](https://shinsho.shueisha.co.jp/kikan/1212-b/) - 三宅香帆 著
 - [Business for Punks](https://www.penguinrandomhouse.com/books/530242/business-for-punks-by-james-watt/) - James Watt
 - [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明  著
 - [孤独な散歩者の夢想](https://www.shinchosha.co.jp/book/200701/) - ルソー 著
