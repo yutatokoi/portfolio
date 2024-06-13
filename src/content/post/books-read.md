@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-06-12"
+publishDate: "2024-06-14"
 tags: ["books", "featured"]
 ---
 
+- [授乳](https://bookclub.kodansha.co.jp/product?item=0000205352) - 村田沙耶香 著
 - [地球星人](https://www.shinchosha.co.jp/book/125713/) - 村田沙耶香 著
 - [コンビニ人間](https://books.bunshun.jp/ud/book/num/9784167911300) - 村田沙耶香 著
 - [なぜ働いていると本が読めなくなるのか](https://shinsho.shueisha.co.jp/kikan/1212-b/) - 三宅香帆 著
