@@ -5,6 +5,7 @@ publishDate: "2024-06-14"
 tags: ["books", "featured"]
 ---
 
+- [ラヴレターズ](https://books.bunshun.jp/ud/book/num/9784167912338) - 川上未映子 村田沙耶香 他
 - [授乳](https://bookclub.kodansha.co.jp/product?item=0000205352) - 村田沙耶香 著
 - [地球星人](https://www.shinchosha.co.jp/book/125713/) - 村田沙耶香 著
 - [コンビニ人間](https://books.bunshun.jp/ud/book/num/9784167911300) - 村田沙耶香 著
