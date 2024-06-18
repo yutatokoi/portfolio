@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-06-15"
+publishDate: "2024-06-18"
 tags: ["books", "featured"]
 ---
 
+- [すべてがFになる](https://bookclub.kodansha.co.jp/product?item=0000198009) - 森博嗣 著
 - [数学の世界史](https://store.kadokawa.co.jp/shop/g/g322305000719/) - 加藤文元 著
 - [ラヴレターズ](https://books.bunshun.jp/ud/book/num/9784167912338) - 川上未映子 村田沙耶香 他
 - [授乳](https://bookclub.kodansha.co.jp/product?item=0000205352) - 村田沙耶香 著
