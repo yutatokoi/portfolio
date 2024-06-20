@@ -8,7 +8,6 @@ tags: ["books"]
 - [EXERCISED: Why Something We Never Evolved to Do is Healthy and Rewarding](https://scholar.harvard.edu/exercised/home) - Daniel E. Lieberman
 - [The Art of Not Being Governed](https://en.wikipedia.org/wiki/The_Art_of_Not_Being_Governed) - James C. Scott
 - [源氏物語 01 桐壺](https://www.aozora.gr.jp/index_pages/person52.html#sakuhin_list_1) - 紫式部 著
-- [「ない仕事」の作り方](https://books.bunshun.jp/ud/book/num/9784163903699) - みうらじゅん 著
 - [サブカルサラリーマンになろう～人生をよくばる108の方法](https://bookclub.kodansha.co.jp/product?item=0000387721) - スージー鈴木 著
 - [Business for Punks](https://www.penguinrandomhouse.com/books/530242/business-for-punks-by-james-watt/) - James Watt
 - [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明  著

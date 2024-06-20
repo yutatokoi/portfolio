@@ -5,6 +5,7 @@ publishDate: "2024-06-20"
 tags: ["books", "featured"]
 ---
 
+- [「ない仕事」の作り方](https://books.bunshun.jp/ud/book/num/9784163903699) - みうらじゅん 著
 - [沈黙](https://www.shinchosha.co.jp/book/112315/) - 遠藤周作 著
 - [数学文章作法　基礎編](https://www.chikumashobo.co.jp/product/9784480095251/) - 結城浩 著
 - [すべてがFになる](https://bookclub.kodansha.co.jp/product?item=0000198009) - 森博嗣 著
