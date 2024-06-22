@@ -1,7 +1,7 @@
 ---
 title: "Books I Want to Read"
 description: "What I will read"
-publishDate: "2024-06-20"
+publishDate: "2024-06-22"
 tags: ["books"]
 ---
 
@@ -19,6 +19,5 @@ tags: ["books"]
 - [その可能性はすでに考えた](https://bookclub.kodansha.co.jp/product?item=0000212824) - 井上真偽 著
 - [聖女の毒杯　その可能性はすでに考えた](https://bookclub.kodansha.co.jp/product?item=0000310166) - 井上真偽 著
 - [ベーシックインカムの祈り](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-744445-2) - 井上真偽 著
-- [バナナ剥きには最適の日々](https://www.hayakawa-online.co.jp/product/books/21150.html) - 円城塔 著
 - [タイタン](https://bookclub.kodansha.co.jp/product?item=0000326715) - 野崎まど 著
 - [変半身](https://www.chikumashobo.co.jp/special/kawarimi/) - 村田沙耶香 著

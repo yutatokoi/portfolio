@@ -5,6 +5,7 @@ publishDate: "2024-06-22"
 tags: ["books", "featured"]
 ---
 
+- [バナナ剥きには最適の日々](https://www.hayakawa-online.co.jp/product/books/21150.html) - 円城塔 著
 - [クルト・ゲーデル](https://www.morikita.co.jp/books/mid/008261) - スティーブン・ブディアンスキー 著、渡会圭子 訳
 - [「ない仕事」の作り方](https://books.bunshun.jp/ud/book/num/9784163903699) - みうらじゅん 著
 - [沈黙](https://www.shinchosha.co.jp/book/112315/) - 遠藤周作 著
