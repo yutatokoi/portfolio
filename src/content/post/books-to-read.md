@@ -6,9 +6,9 @@ tags: ["books"]
 ---
 
 - [EXERCISED: Why Something We Never Evolved to Do is Healthy and Rewarding](https://scholar.harvard.edu/exercised/home) - Daniel E. Lieberman
-- [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明  著
+- [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明 著
 - [孤独な散歩者の夢想](https://www.shinchosha.co.jp/book/200701/) - ルソー 著
-- [私の好きな孤独](https://www.usio.co.jp/books/ushio_bunko/23071) - 長田弘 著
+- [教養としてのコンピューターサイエンス講義](https://bookplus.nikkei.com/atcl/catalog/22/04/24/00110/) - ブライアン・カーニハン 著、酒匂寛 著
 - Walden - Henry David Thoreau
 - [恋と禁忌の述語論理](https://bookclub.kodansha.co.jp/product?item=0000318280) - 井上真偽 著
 - [その可能性はすでに考えた](https://bookclub.kodansha.co.jp/product?item=0000212824) - 井上真偽 著
