@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-06-24"
+publishDate: "2024-06-26"
 tags: ["books", "featured"]
 ---
 
+- [殺人出産](https://bookclub.kodansha.co.jp/product?item=0000212448) - 村田沙耶香 著
 - [タイタン](https://bookclub.kodansha.co.jp/product?item=0000326715) - 野崎まど 著
 - [バナナ剥きには最適の日々](https://www.hayakawa-online.co.jp/product/books/21150.html) - 円城塔 著
 - [クルト・ゲーデル](https://www.morikita.co.jp/books/mid/008261) - スティーブン・ブディアンスキー 著、渡会圭子 訳
