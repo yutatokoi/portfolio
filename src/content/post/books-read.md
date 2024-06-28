@@ -1,10 +1,11 @@
 ---
 title: "Books I Have Read"
 description: "What I've read"
-publishDate: "2024-06-28"
+publishDate: "2024-06-29"
 tags: ["books", "featured"]
 ---
 
+- [孤独な散歩者の夢想](https://www.shinchosha.co.jp/book/200701/) - ルソー 著
 - [変半身](https://www.chikumashobo.co.jp/special/kawarimi/) - 村田沙耶香 著
 - [殺人出産](https://bookclub.kodansha.co.jp/product?item=0000212448) - 村田沙耶香 著
 - [タイタン](https://bookclub.kodansha.co.jp/product?item=0000326715) - 野崎まど 著
