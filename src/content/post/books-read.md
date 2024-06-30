@@ -5,6 +5,7 @@ publishDate: "2024-06-30"
 tags: ["books", "featured"]
 ---
 
+- [ベーシックインカムの祈り](https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-744445-2) - 井上真偽 著
 - [恋と禁忌の述語論理](https://bookclub.kodansha.co.jp/product?item=0000318280) - 井上真偽 著
 - [孤独な散歩者の夢想](https://www.shinchosha.co.jp/book/200701/) - ルソー 著
 - [変半身](https://www.chikumashobo.co.jp/special/kawarimi/) - 村田沙耶香 著
