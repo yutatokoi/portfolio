@@ -5,6 +5,7 @@ publishDate: "2024-06-30"
 tags: ["books"]
 ---
 
+- [線型代数［改訂版］](https://www.nippyo.co.jp/shop/book/6704.html) - 長谷川浩司 著
 - [EXERCISED: Why Something We Never Evolved to Do is Healthy and Rewarding](https://scholar.harvard.edu/exercised/home) - Daniel E. Lieberman
 - [方丈記](https://www.aozora.gr.jp/cards/000196/files/975_15935.html) - 鴨長明 著
 - [教養としてのコンピューターサイエンス講義](https://bookplus.nikkei.com/atcl/catalog/22/04/24/00110/) - ブライアン・カーニハン 著、酒匂寛 訳
